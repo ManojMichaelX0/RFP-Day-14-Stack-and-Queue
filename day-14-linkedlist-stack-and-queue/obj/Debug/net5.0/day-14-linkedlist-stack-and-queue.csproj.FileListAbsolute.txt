@@ -1,0 +1,16 @@
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.exe
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.deps.json
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.runtimeconfig.json
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.runtimeconfig.dev.json
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.dll
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\bin\Debug\net5.0\day-14-linkedlist-stack-and-queue.pdb
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.csproj.AssemblyReference.cache
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.AssemblyInfoInputs.cache
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.AssemblyInfo.cs
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.csproj.CoreCompileInputs.cache
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.dll
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\refint\day-14-linkedlist-stack-and-queue.dll
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.pdb
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\day-14-linkedlist-stack-and-queue.genruntimeconfig.cache
+D:\.net\day-14-linkedlist-stack-and-queue\day-14-linkedlist-stack-and-queue\obj\Debug\net5.0\ref\day-14-linkedlist-stack-and-queue.dll
