@@ -6,7 +6,7 @@ namespace day_14_linkedlist_stack_and_queue
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("PushING values to Stack");          
             LinkedListStack linkedListStack = new LinkedListStack();
             linkedListStack.push(70);
             linkedListStack.push(30);
