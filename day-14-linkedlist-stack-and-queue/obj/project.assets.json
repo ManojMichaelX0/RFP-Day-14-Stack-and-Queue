@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue.csproj",
+      "projectUniqueName": "D:\\.net\\Day-14-Rfp-Practice-problems\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue.csproj",
       "projectName": "day-14-linkedlist-stack-and-queue",
-      "projectPath": "D:\\.net\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue.csproj",
+      "projectPath": "D:\\.net\\Day-14-Rfp-Practice-problems\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue.csproj",
       "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\obj\\",
+      "outputPath": "D:\\.net\\Day-14-Rfp-Practice-problems\\day-14-linkedlist-stack-and-queue\\day-14-linkedlist-stack-and-queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
